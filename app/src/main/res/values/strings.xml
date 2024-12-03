@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeVideoPlayer</string>
+    <string name="setting_screen_name">설정</string>
+    <string name="dark_mode_switch_name">다크 모드</string>
+</resources>
